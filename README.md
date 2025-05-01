@@ -19,4 +19,4 @@ So if you want to run this project or app download the code and visit newapi sit
 create a .env file and create a variable VITE_API_KEY="(paste your api key here )" and it will run .
 
 Thank You !
->>>>>>> 5c49570fd999737d6b9d17dd44894d26776a501a
+
